@@ -17,7 +17,8 @@ I am a Result driven IT leader with expertise envisioning and leading technology
 ![](https://github-profile-trophy.vercel.app/?username=amithgc&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Medium Articles
-[![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=amithgc)
+![Amith's blog](https://github-read-medium.vercel.app/latest?username=amithgc&limit=6&theme=nord)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=amithgc&icon=0&color=0)](https://visitcount.itsvg.in)
